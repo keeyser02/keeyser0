@@ -1,5 +1,6 @@
-<h1>Hi, I'm Christian Cruz! <br/><a href="https://www.linkedin.com/in/
-christian-cruz-5b95932a3></a>, <a href="https://"></a>, 
+<h1>Hi, I'm Christian Cruz!</h1>
+ <a href="https://www.linkedin.com/in/
+christian-cruz-5b95932a3></a>
 
 <h2>Motivated and detail-oriented IT support specialist with a recently earned CCNA certification and a 
 Computer Support Technician diploma. Strong foundation in networking, hardware/software 
